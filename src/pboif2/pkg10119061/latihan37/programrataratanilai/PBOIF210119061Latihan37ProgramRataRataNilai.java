@@ -11,6 +11,7 @@ package pboif2.pkg10119061.latihan37.programrataratanilai;
  * NAMA  : RHEIZA AKMAL R
  * KELAS : IF2
  * NIM   : 10119061
+ * Deskripsi Program : untuk menentukan rata rata nilai 
  */
 public class PBOIF210119061Latihan37ProgramRataRataNilai {
 
